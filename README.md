@@ -1,7 +1,7 @@
 # Software Developer - Java - Technical Test
 ## Calculate Average Victim REST API
-
-This application serves to count the number of victims killed by witches. I built this application using the Spring Boot Java framework.
+This application serves to count the number of victims killed by witches. I built it using the Spring Boot Java framework for the backend and AngularJS for the frontend.
+**For the front-end files, you can visit this repository link:** [witchFE](https://github.com/Alhuzsyam/witchFE)
 
 ## Get Started 
 1. First, clone this repository to your local computer.
@@ -12,8 +12,6 @@ This application serves to count the number of victims killed by witches. I buil
 **Live application demo:** [live Demo](http://128.199.177.206:5390/)
 
 ![feren](https://github.com/Alhuzsyam/witch/assets/64511435/705953a9-345f-44ce-aa90-acfc92ac5654)
-
-**For the front-end files, you can visit this repository link:** [witchFE](https://github.com/Alhuzsyam/witchFE)
 
 ## API Endpoint
 ### Calculate Victim Average Endpoint
