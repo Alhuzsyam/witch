@@ -11,6 +11,11 @@ This application serves to count the number of victims killed by witches. I buil
 
 ## API Endpoint
 
+**For live Demo you can use this end Point**
+- **Method:** POST 
+- **Path:** http://128.199.177.206:8087/api/v1/victim/average
+
+
 ### Calculate Victim Average Endpoint
 - **Method:** POST 
 - **Path:** http://localhost:8087/api/v1/victim/average
