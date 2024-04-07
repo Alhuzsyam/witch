@@ -13,7 +13,7 @@ This application serves to count the number of victims killed by witches. I buil
 **Live aplication demo**
 http://128.199.177.206:5390/
 
-![Uploading feren.gif…]()
+![feren](https://github.com/Alhuzsyam/witch/assets/64511435/705953a9-345f-44ce-aa90-acfc92ac5654)
 
 
 **For the front-end files, you can visit this repository link**
