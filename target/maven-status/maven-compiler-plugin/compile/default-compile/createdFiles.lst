@@ -1,0 +1,7 @@
+com/witch/Dto/Response.class
+com/witch/Controller/PersonController.class
+com/witch/WitchApplication.class
+com/witch/Controller/MainController.class
+com/witch/Model/Person.class
+com/witch/Dto/VictimRequest.class
+com/witch/Service/PersonService.class

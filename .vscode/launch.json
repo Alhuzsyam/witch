@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "WitchApplication",
+            "request": "launch",
+            "mainClass": "com.witch.WitchApplication",
+            "projectName": "witch"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-WitchApplication<witch>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.witch.witch.WitchApplication",
+            "projectName": "witch",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env",
+            "vmArgs": " -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.port=49796 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Dspring.jmx.enabled=true -Djava.rmi.server.hostname=localhost -Dspring.application.admin.enabled=true -Dspring.boot.project.name=witch"
+        }
+    ]
+}
