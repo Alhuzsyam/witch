@@ -9,7 +9,7 @@ This application serves to count the number of victims killed by witches. I buil
 3. After cloning the repository, navigate to the project directory.
 4. You can run this app with the following command: `mvn spring-boot:run`
 
-**Live application demo:** http://128.199.177.206:5390/
+**Live application demo:** [live Demo](http://128.199.177.206:5390/)
 
 ![feren](https://github.com/Alhuzsyam/witch/assets/64511435/705953a9-345f-44ce-aa90-acfc92ac5654)
 
