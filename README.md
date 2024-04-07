@@ -1,5 +1,5 @@
 # Software Developer - Java - Technical Test
-# Calculate Average Victim REST API
+## Calculate Average Victim REST API
 
 This application serves to count the number of victims killed by witches. I built this application using the Spring Boot Java framework.
 
@@ -9,23 +9,22 @@ This application serves to count the number of victims killed by witches. I buil
 3. After cloning the repository, navigate to the project directory.
 4. You can run this app with the following command: `mvn spring-boot:run`
 
-
-**Live aplication demo**
-http://128.199.177.206:5390/
+**Live application demo:** http://128.199.177.206:5390/
 
 ![feren](https://github.com/Alhuzsyam/witch/assets/64511435/705953a9-345f-44ce-aa90-acfc92ac5654)
-**For the front-end files, you can visit this repository link**
-https://github.com/Alhuzsyam/witchFE
+
+**For the front-end files, you can visit this repository link:** [witchFE](https://github.com/Alhuzsyam/witchFE)
 
 ## API Endpoint
 ### Calculate Victim Average Endpoint
-**For live Demo Api end Point you can use this url**
-- **Method:** POST (**Access the endpoint from anywhere**)
-- **Path:** http://128.199.177.206:8087/api/v1/victim/average
 
+**For live Demo Api Endpoint, you can use this URL:**
 
-- **Method:** POST (**local computer only**)
-- **Path:** http://localhost:8087/api/v1/victim/average
+- **Method:** POST 
+- **Path:** [http://128.199.177.206:8087/api/v1/victim/average](http://128.199.177.206:8087/api/v1/victim/average) (**Access the endpoint from anywhere**)
+
+- **Method:** POST 
+- **Path:** [http://localhost:8087/api/v1/victim/average](http://localhost:8087/api/v1/victim/average) (**local computer only**)
 
 #### Request Body & Response Body
 ```json
@@ -35,7 +34,6 @@ https://github.com/Alhuzsyam/witchFE
   "ageAtDeathB": 13,
   "yearOfDeathB": 17
 }
-
 {
 	"status": "200 OK",
 	"message": "success",
@@ -47,3 +45,4 @@ https://github.com/Alhuzsyam/witchFE
 		"personB_jumlahKematian": 7
 	}
 }
+
