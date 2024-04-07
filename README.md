@@ -9,13 +9,14 @@ This application serves to count the number of victims killed by witches. I buil
 3. After cloning the repository, navigate to the project directory.
 4. You can run this app with the following command: `mvn spring-boot:run`
 
-## API Endpoint
 
-
-
-**kunjungi link ini untuk demo**
+**Live aplication demo**
 http://128.199.177.206:5390/
 
+**For the front-end files, you can visit this repository link**
+https://github.com/Alhuzsyam/witchFE
+
+## API Endpoint
 ### Calculate Victim Average Endpoint
 **For live Demo Api end Point you can use this url**
 - **Method:** POST (**Access the endpoint from anywhere**)
