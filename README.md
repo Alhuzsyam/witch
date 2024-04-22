@@ -32,6 +32,9 @@ This application serves to count the number of victims killed by witches. I buil
   "ageAtDeathB": 13,
   "yearOfDeathB": 17
 }
+```
+
+```json
 {
 	"status": "200 OK",
 	"message": "success",
@@ -43,4 +46,5 @@ This application serves to count the number of victims killed by witches. I buil
 		"personB_jumlahKematian": 7
 	}
 }
+```
 
